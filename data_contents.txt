@@ -15,7 +15,7 @@ Content
 
 "Vehicle Exterior" - Provides the direction of impact
 
-"Accident Description" - Provides the "ratio inflation factor" used for weighting the data.
+"Accident Description" - Provides the "git ratio inflation factor" used for weighting the data.
 
 These data sets are provided for each year. Individual cases are distinguished by year of accident, primary sampling unit, and case ID. The case IDs refer to the accident; within accident individual cars are identified by a "vehicle number" and within vehicles, each occupant is identified by an "occupant number". Using these identifiers, the user may combine the data sets.
 
@@ -106,6 +106,8 @@ The variables used to create the data table were;
 "STRATIF" - 'CASE STRATUM'
 
 "CASEID" - 'CASE NUMBER - STRATUM'
+
+PSU NUMBER (PSU), CASE NUMBER-STRATUM (CASEID) and CASE SEQUENCE NUMBER (CASENO) are identical variables across all NASS records. CASENO is the first three digits of CASEID.
 
 Acknowledgements
 Thanks to Nass for making their datasets free to the public by year.
