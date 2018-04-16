@@ -1,7 +1,6 @@
 *.swp
 *.ipynb_checkpoints
 *.csv
-*.zip
-*.sqlite
 *.pdf
+*.sqlite
 planB
