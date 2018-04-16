@@ -1,4 +1,4 @@
-## Fatality-Facts-Safety-While-Driving
+# Fatality-Facts-Safety-While-Driving
 Data from NHTSA (National Highway Traffic Safety Administration) from 2014 to 2015 was analyzed to determine contributing factors of injuries.  Below is an overview of the the type of information provided: 
 - Injury Severity
 - Change in velocity
