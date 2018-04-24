@@ -13,8 +13,7 @@ Data from NHTSA (National Highway Traffic Safety Administration) from 2014 to 20
 **Car Crash Injury Factors**  
 https://docs.google.com/document/d/11gPFfsLihIlJvNriNGU5c60tGBBTeTNjDwp5ItMfglM/edit?usp=sharing
 
-
-### Source of dataset
+**Source of dataset**
 https://www.kaggle.com/cfurby243/fatalityfacts
-### NHTSA.gov documents website
+**NHTSA.gov documents website**
 https://crashstats.nhtsa.dot.gov/#/DocumentTypeList/5
