@@ -9,8 +9,8 @@ Data from NHTSA (National Highway Traffic Safety Administration) from 2014 to 20
 - Airbag deployment satus
 - Vehicle make, model, year and body type 
 
-## Technical Report
-[Car Crash Injury Factors]  
+### Technical Report
+**Car Crash Injury Factors**  
 https://docs.google.com/document/d/11gPFfsLihIlJvNriNGU5c60tGBBTeTNjDwp5ItMfglM/edit?usp=sharing
 
 
