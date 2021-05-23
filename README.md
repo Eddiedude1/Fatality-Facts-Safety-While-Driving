@@ -19,3 +19,7 @@ https://docs.google.com/document/d/11gPFfsLihIlJvNriNGU5c60tGBBTeTNjDwp5ItMfglM/
 https://www.kaggle.com/cfurby243/fatalityfacts                                   
 **NHTSA.gov documents website**                                                 
 https://crashstats.nhtsa.dot.gov/#/DocumentTypeList/5
+
+**NASS (National Automotive Sampling System) Analytics User Manual 2014**  
+* contains information and data dictionaries for columns used in the analysis  
+https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812195

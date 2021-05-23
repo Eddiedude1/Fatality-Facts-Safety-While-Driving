@@ -6,3 +6,5 @@
 *.pdf
 *.sqlite
 planB
+py
+setup.sh
